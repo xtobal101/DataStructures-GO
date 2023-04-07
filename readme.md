@@ -1,0 +1,1 @@
+Simple go language implementation of most common datastructures usually found on job coding interviews. 
