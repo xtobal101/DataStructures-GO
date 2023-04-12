@@ -1,5 +1,7 @@
 package main
 
+//A very simple implementation of a linked list data structure"
+
 import (
 	"fmt"
 )
