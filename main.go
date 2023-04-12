@@ -1,6 +1,6 @@
 package main
 
-//A very simple implementation of a linked list data structure"
+//A very simple implementation of a linked list data structure handler
 
 import (
 	"fmt"
